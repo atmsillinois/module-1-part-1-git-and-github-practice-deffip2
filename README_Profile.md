@@ -12,9 +12,9 @@ Outside of academics, my hobbies include **painting**, and learning about **trad
 
 My learning goals can be divided into two aspects: **scientific** and **non-scientific**.  
 
-### 🔬 Scientific
+### Scientific
 - Generally, I want to train myself to think **logically, critically, efficiently, and effectively**.  
 - Specifically, I want to become more familiar with **coding**. Although I have been exposed to coding during my studies, I have not yet practiced it efficiently and effectively as a tool for problem solving.  
 
-### 🎨 Non-Scientific
+### Non-Scientific
 - I would like to better **balance the activities of my right and left brain** by continuing to pursue my strong interests in the arts.  
